@@ -1,3 +1,5 @@
+#DAILLENT CONRADO Y GUSTAVO CRUZ 
+
 # GeoCam – Taller Integrador 2
 
 ## Semana 6 – Módulos Nativos y Sensores del Dispositivo
