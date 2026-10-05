@@ -330,7 +330,7 @@ En esta evidencia se debe mostrar que el usuario concedió el permiso de ubicaci
 
 **Captura:**
 
-`docs/5.jpeg`
+`docs/5.jpeg` (sino le cargan las imagenes la puede encontrar en la carpeta docs, no pude hacer que se visualizaran.)
 
 ---
 
@@ -354,7 +354,7 @@ En esta evidencia se debe mostrar el estado en el cual el permiso está bloquead
 
 **Captura:**
 
-`docs/1.jpeg`
+`docs/1.jpeg` 
 
 ---
 
